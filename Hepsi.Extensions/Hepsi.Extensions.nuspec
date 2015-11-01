@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Hepsiburada.Extensions</id>
+    <version>0.1</version>
+    <title>Hepsiburada Extensions</title>
+    <authors>Hepsiburada Dev Team</authors>
+    <owners>Hepsiburada</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <iconUrl>http://a2.mzstatic.com/us/r30/Purple3/v4/70/b4/61/70b461b7-7eb8-4437-92a0-9e8c68ff681f/icon175x175.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>IQueryable extensions created by Hepsiburada developers</description>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>
